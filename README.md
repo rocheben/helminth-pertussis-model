@@ -46,3 +46,7 @@ The Latin hypercube uses a fixed seed (`seed=1`), so all results are
 deterministic and reproducible up to floating-point rounding. Minor cosmetic
 differences in the figures (e.g. tick spacing) may appear with other
 matplotlib versions.
+
+## License
+
+MIT, see `LICENSE`.
